@@ -246,11 +246,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Issues**: [GitHub Issues](https://github.com/yourusername/ats-resume-optimizer/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/yourusername/ats-resume-optimizer/discussions)
-- **Email**: your.email@example.com
+- **Email**: naveen.john5689@gmail.com
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by nvnj**
 
 *Optimize your resume, land your dream job! 🎯*
 
