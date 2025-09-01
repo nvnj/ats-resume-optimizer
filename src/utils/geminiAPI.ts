@@ -17,8 +17,9 @@ interface GeminiResponse {
   suggestions: GeminiSuggestion[];
 }
 
-// Mock API endpoint - in production, this would be your backend endpoint
-const GEMINI_API_ENDPOINT = '/api/gemini/optimize';
+// Gemini API configuration
+const GEMINI_API_KEY = import.meta.env.VITE_GEMINI_API_KEY;
+const GEMINI_API_ENDPOINT = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent';
 
 export const optimizeResumeWithGemini = async (
   resume: ResumeData,
